@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AR camera\\AR camera\\AR camera.csproj": {}
+    "D:\\AR-foundation-Unity\\AR camera\\AR camera\\AR camera.csproj": {}
   },
   "projects": {
-    "D:\\AR camera\\AR camera\\AR camera.csproj": {
+    "D:\\AR-foundation-Unity\\AR camera\\AR camera\\AR camera.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AR camera\\AR camera\\AR camera.csproj",
+        "projectUniqueName": "D:\\AR-foundation-Unity\\AR camera\\AR camera\\AR camera.csproj",
         "projectName": "AR camera",
-        "projectPath": "D:\\AR camera\\AR camera\\AR camera.csproj",
+        "projectPath": "D:\\AR-foundation-Unity\\AR camera\\AR camera\\AR camera.csproj",
         "packagesPath": "C:\\Users\\bebru\\.nuget\\packages\\",
-        "outputPath": "D:\\AR camera\\AR camera\\obj\\",
+        "outputPath": "D:\\AR-foundation-Unity\\AR camera\\AR camera\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\visual studio SDK\\NuGetPackages"
