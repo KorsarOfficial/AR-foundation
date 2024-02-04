@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-using DG.Tweening; // Подключить DOTween assets store unity
+using DG.Tweening; // anschalten DOTween Assets speichern Einheit
 using UnityEngine.EventSystems;
 using System.Collections.Generic;
 
