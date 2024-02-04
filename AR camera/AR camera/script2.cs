@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.InputSystem; // Window => pocket manager в помсковик input system и установить
+using UnityEngine.InputSystem; // Window => pocket manager in das Eingabesystem und installieren
 public class script2 : MonoBehaviour
 {
     public float speed = 0.01f;
